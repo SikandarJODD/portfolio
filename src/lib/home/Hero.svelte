@@ -8,7 +8,7 @@
 	<div class="hero-content flex-col lg:flex-row">
 		<img
 			src="https://i.pinimg.com/564x/cd/b6/e1/cdb6e1bced383827aca51f6e4fee41cd.jpg"
-			class="max-w-sm rounded-lg shadow-2xl"
+			class="md:max-w-sm rounded-lg shadow-2xl"
 			alt="Sikandar.S.Bhide"
 		/>
 		<div class="lg:pl-16 md:flex md:flex-col md:items-start">
