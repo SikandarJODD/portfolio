@@ -4,7 +4,7 @@
 	import SmallBoxAlert from './SmallBoxAlert.svelte';
 </script>
 
-<div class="hero h-[90vh] bg-base-200">
+<div class="hero md:h-[90vh] md:bg-base-200">
 	<div class="hero-content flex-col lg:flex-row">
 		<img
 			src="https://i.pinimg.com/564x/cd/b6/e1/cdb6e1bced383827aca51f6e4fee41cd.jpg"
